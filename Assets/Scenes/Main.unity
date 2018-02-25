@@ -371,7 +371,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MainCamera: {fileID: 0}
-  Speed: 15
+  Speed: 13
   RBD: {fileID: 0}
   JumpHeight: 400
 --- !u!1 &983525373
